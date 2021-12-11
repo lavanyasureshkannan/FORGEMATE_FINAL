@@ -1,0 +1,8 @@
+prefix=/home/prateek/forge_ws/devel
+
+Name: forgemate
+Description: Description of forgemate
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

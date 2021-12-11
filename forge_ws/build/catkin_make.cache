@@ -1,0 +1,2 @@
+forgemate
+-DCATKIN_DEVEL_PREFIX=/home/prateek/forge_ws/devel -DCMAKE_INSTALL_PREFIX=/home/prateek/forge_ws/install -G Unix Makefiles
